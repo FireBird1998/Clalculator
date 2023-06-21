@@ -2,6 +2,10 @@
 
 This is a simple calculator project built using HTML, CSS, and JavaScript. It provides basic calculator functionalities such as addition, subtraction, multiplication, and division.
 
+### Project View Link
+
+Link: https://firebird1998.github.io/Clalculator/
+
 ## Getting Started
 
 To use the calculator, simply open the `index.html` file in a web browser. The calculator interface will be displayed, allowing you to perform calculations.
